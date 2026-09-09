@@ -11,6 +11,11 @@
 - Postgraduate Degree, DevOps (2025 - 2026)
 - Postgraduate Degree, Crisis Management (2026 - 2026)
 
+### Postgraduate studies in progress
+
+- Postgraduate Degree, CIÊNCIAS DE DADOS E INTELIGÊNCIA ARTIFICIAL (2026 - 2027)
+- Postgraduate Degree, DEFESA CIVIL (2026 - 2026)
+
 
 ### Lattes > https://lattes.cnpq.br/5723121740314383
 
