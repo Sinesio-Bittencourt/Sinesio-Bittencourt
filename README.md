@@ -20,6 +20,7 @@
 ### Lattes > https://lattes.cnpq.br/5723121740314383
 
 Previous work with DevOps: 
+- Specialist SRE at [Equifax](https://bit.ly/44RO5dA)
 - Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K)
 - Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN)
 - Senior DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ)
