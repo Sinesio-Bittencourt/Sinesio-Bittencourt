@@ -9,7 +9,7 @@
 - Postgraduate Degree, Information Security (InfoSec) (2023 - 2024)
 - Postgraduate Degree, Electrical engineer (2024 - 2025)
 - Postgraduate Degree, DevOps (2025 - 2026)
-- Postgraduate Degree, Crisis Management (2026 - 2026)
+- Postgraduate Degree, Crisis Management MBA (2026 - 2026) 
 
 ### Postgraduate studies in progress
 
