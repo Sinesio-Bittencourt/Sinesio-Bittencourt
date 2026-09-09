@@ -2,11 +2,15 @@
 
 # Hi folks 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
-## I currently work as a Specialist SRE at [Equifax](https://bit.ly/44RO5dA) | 
+## I currently work as a Specialist SRE at [Equifax](https://bit.ly/44RO5dA)
 
-- Postgraduate Degree, Cloud Computing Architecture and Project Specialist;
-- Postgraduate Degree, Computer Software Engineering;
-- Postgraduate Degree, Information Security (InfoSec).
+- Postgraduate Degree, Cloud Computing Architecture and Project Specialist (2021 - 2022)
+- Postgraduate Degree, Computer Software Engineering (2022 - 2023)
+- Postgraduate Degree, Information Security (InfoSec) (2023 - 2024)
+- Postgraduate Degree, Electrical engineer (2024 - 2025)
+- Postgraduate Degree, DevOps (2025 - 2026)
+- Postgraduate Degree, Crisis Management (2026 - 2026)
+
 
 ### Lattes > https://lattes.cnpq.br/5723121740314383
 
