@@ -2,12 +2,26 @@
 
 # Hi folks 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
-## I currently work as a Specialist SRE at [Equifax](https://bit.ly/44RO5dA) | Postgraduate Degree, Cloud Computing Architecture and Project Specialist | Postgraduate Degree, Computer Software Engineering And Postgraduate Degree, Information Security (InfoSec)
+## I currently work as a Specialist SRE at [Equifax](https://bit.ly/44RO5dA)
+
+- Postgraduate Degree, Cloud Computing Architecture and Project Specialist (2021 - 2022)
+- Postgraduate Degree, Computer Software Engineering (2022 - 2023)
+- Postgraduate Degree, Information Security (InfoSec) (2023 - 2024)
+- Postgraduate Degree, Electrical engineer (2024 - 2025)
+- Postgraduate Degree, DevOps (2025 - 2026)
+- Postgraduate Degree, Crisis Management MBA (2026 - 2026) 
+
+### Postgraduate studies in progress
+
+- Postgraduate Degree, CIÊNCIAS DE DADOS E INTELIGÊNCIA ARTIFICIAL (2026 - 2027)
+- Postgraduate Degree, DEFESA CIVIL (2026 - 2026)
+
 
 ### Lattes > https://lattes.cnpq.br/5723121740314383
 ### Cloud Skills Boost >  https://www.cloudskillsboost.google/public_profiles/593e19fe-cee6-4a67-a785-94b855faf6dc
 
 Previous work with DevOps: 
+- Specialist SRE at [Equifax](https://bit.ly/44RO5dA)
 - Specialist SRE at [Boa Vista SCPC](https://bit.ly/3yBxR6K)
 - Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN)
 - Senior DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ)
